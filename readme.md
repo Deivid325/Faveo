@@ -16,3 +16,7 @@ en tickets* de última tecnología.
 
 Dispone de **4 versiones** que van desde su versión “free open source” a la versión
 premium de pago:
+
+-   Helpdesk – Perpetual
+
+![1]()
