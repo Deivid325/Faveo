@@ -96,3 +96,14 @@ En este apartado podemos realizar varias acciones. La primera es la posibilidad 
 Otra opción que tiene es la posibilidad de almacenar información sobre el dominio en el trabajamos con la herramienta Faveo. En la demo online se trabajo sobre una tienda de moda. En dicha base de datos sobre la misma podemos introducir y guardar información como (categorías,artículos ,páginas,etc).
 
 ![image](https://user-images.githubusercontent.com/104897045/174390520-655ca27c-06ee-40c3-b059-684010fd7a72.png)
+
+Lo último que podemos hacer en este apartado es la creación de tickets programados indicando parámetros como son el intervalo, el inicio y cuando finaliza. Esta opción es de gran utilidad ya que puede ahorrar tiempo y esfuerzo de crear mismas entradas a intervalos regulares.
+
+![image](https://user-images.githubusercontent.com/105352990/174391002-7fc4742a-c1a5-4f04-83de-7fc5d6398262.png)
+
+4.**Reportes**
+
+En esta sección podremos llevar un seguimiento de nuestro servicio técnico. En él podemos monitorizar el rendimiento del equipo técnico ya sea a nivel individual como a nivel de departamento o de equipo, podremos observar el nivel de satisfacción del cliente respecto a la respuesta obtenida, descargar la actividad de reportes para un examen exhaustivo del servicio técnico y muchas cosas más.
+
+![image](https://user-images.githubusercontent.com/105352990/174391423-e9ce95f0-a015-4b0b-9591-e56c99d60428.png)
+
