@@ -33,3 +33,11 @@ premium de pago:
 
 ![image](https://user-images.githubusercontent.com/104897045/174349405-f0cc35e4-fc33-4319-b3c5-11014a364624.png)
 
+## Instalación
+
+En nuestro caso hacemos uso de la herramienta demostración online.
+
+Dicha herramienta nos proporciona 3 ámbitos (Administrador,Cliente,Agente) con los que poder observar cómo funciona la aplicación.
+
+![image](https://user-images.githubusercontent.com/105352990/174350750-0f8dd085-2f41-4015-9454-ce9ebea6f87f.png)
+
