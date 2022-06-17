@@ -77,7 +77,7 @@ Desde este apartado podemos seleccionar los tickets y realizar la mayoría de la
 
 Dentro de esta pestaña podemos hacer dos cosas. La primera es la creación y almacenamiento de usuarios de los que podemos recibir tickets. De los usuarios podemos almacenar datos como son el correo electrónico e incluso el teléfono móvil ya que existe la herramienta de Faveo para versiones móviles.
 
-![image](https://user-images.githubusercontent.com/105352990/174386403-4b5e93dd-1d6b-4816-809f-61c92e68a3b7.png)
+![image](https://user-images.githubusercontent.com/105352990/174387556-5950d6ab-bc5e-420e-9b32-254c3969c6f9.png)
 
 Lo segundo que podemos hacer va con respecto a las organizaciones. En dicha pestaña podemos crear organizaciones donde asignar los clientes que creamos para poder identificar el sector desde donde el cliente nos solicita a través del ticket.
 
