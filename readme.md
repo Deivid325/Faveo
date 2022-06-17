@@ -41,7 +41,18 @@ Dicha herramienta nos proporciona 3 ámbitos (Administrador,Cliente,Agente) con 
 
 ![image](https://user-images.githubusercontent.com/105352990/174350750-0f8dd085-2f41-4015-9454-ce9ebea6f87f.png)
 
-Debemos de tener en cuenta unos requerimientos técnicos en nuestro pc para ello que son los siguientes:
+Debemos de tener en cuenta unos requisitos para ello que son los siguientes:
 
 ![image](https://user-images.githubusercontent.com/105352990/174351221-05d99c11-6d99-4010-8402-2265199a88fa.png)
 
+## Uso de la herramienta
+
+Como hemos nombrado en el apartado anterior, disponemos de 3 ámbitos en la demo online.
+
+![image](https://user-images.githubusercontent.com/104897045/174352672-d8748c3b-0853-4dbd-8554-5fd2eea3f7ba.png)
+
+Desde el panel de agente podemos hacer uso de la interfaz tal y como la vemos en la captura. Nos informa sobre cuantos tickets hay nuevos, sin asignar, atrasados, tickets que tengo asignados y cuantos tickets hay programados para solucionar hoy.
+
+También dispone de una gráfica donde podemos hacer un seguimiento de los tickets creados, solucionados y atrasados desde el margen de fechas que indiquemos.
+
+En el menú lateral izquierdo tenemos varias pestañas a comentar.
