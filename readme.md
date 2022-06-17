@@ -129,3 +129,6 @@ Sobre los tickets destacar que desde el panel de administrador podemos personali
 
 4.**Sistema**
 
+En este parámetro podemos hacer absolutamente de todo respecto al sistema.
+
+![image](https://user-images.githubusercontent.com/104897045/174394246-c221b89d-b7dc-4de4-8b8e-cf31da6c2fcd.png)
