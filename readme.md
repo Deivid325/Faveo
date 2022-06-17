@@ -85,4 +85,14 @@ Lo segundo que podemos hacer va con respecto a las organizaciones. En dicha pest
 
 Seleccionamos una de las organizaciones para observar el perfil de la misma. Podemos ver que dicha organización tiene a 2 clientes asignados a la misma y también podemos observar que uno de los clientes llamado Donald Duck tiene un ticket abierto en la parte inferior de la captura.
 
+![image](https://user-images.githubusercontent.com/104897045/174389456-673ade6c-6720-4bd7-9d57-c0f20a9f2048.png)
 
+3.**Herramientas**
+
+En este apartado podemos realizar varias acciones. La primera es la posibilidad de crear respuestas predefinidas. Con esta opción podemos hacer que por ejemplo cuando un cliente envíe su ticket, este, reciba un correo generado automáticamente diciendo que el ticket se ha generado correctamente y que este está bajo supervisión.
+
+![image](https://user-images.githubusercontent.com/104897045/174390057-e3034afa-dbfc-4b21-af9b-8bf2bb0d6212.png)
+
+Otra opción que tiene es la posibilidad de almacenar información sobre el dominio en el trabajamos con la herramienta Faveo. En la demo online se trabajo sobre una tienda de moda. En dicha base de datos sobre la misma podemos introducir y guardar información como (categorías,artículos ,páginas,etc).
+
+![image](https://user-images.githubusercontent.com/104897045/174390520-655ca27c-06ee-40c3-b059-684010fd7a72.png)
