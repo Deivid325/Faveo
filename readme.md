@@ -77,5 +77,6 @@ Desde este apartado podemos seleccionar los tickets y realizar la mayoría de la
 
 Dentro de esta pestaña podemos hacer dos cosas. La primera es la creación y almacenamiento de usuarios de los que podemos recibir tickets. De los usuarios podemos almacenar datos como son el correo electrónico e incluso el teléfono móvil ya que existe la herramienta de Faveo para versiones móviles.
 
-![image](https://user-images.githubusercontent.com/105352990/174386403-4b5e93dd-1d6b-4816-809f-61c92e68a3b7.png)
+![image](https://user-images.githubusercontent.com/105352990/174386999-3d46d90c-d6e8-442f-a5da-b8f5e9799cd2.png)
+
 
