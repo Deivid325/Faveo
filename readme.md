@@ -132,3 +132,24 @@ Sobre los tickets destacar que desde el panel de administrador podemos personali
 En este parámetro podemos hacer absolutamente de todo respecto al sistema.
 
 ![image](https://user-images.githubusercontent.com/104897045/174394246-c221b89d-b7dc-4de4-8b8e-cf31da6c2fcd.png)
+
+La configuración del apartado Seguridad nos permite tener un control sobre la compañía. Por ejemplo, podemos indicar que el máximo intento de inicio de sesión sea de [X] veces, que la sesión dure [X] minutos, etc.
+
+![image](https://user-images.githubusercontent.com/105352990/174394880-3af29651-09d7-4759-a9cc-cb4e6e10ce5c.png)
+
+5.**AddOns**
+
+La herramienta Faveo nos permite añadir plugins e incluso módulos al servicio de tickets. La demo online viene con plugins como son para el calendario, para la integración de chat, para autentificación mediante LDAP...
+
+![image](https://user-images.githubusercontent.com/105352990/174395342-512b74fa-46b9-44f4-975f-c030b85e8184.png)
+
+También dispone de los siguientes módulos que permiten un mejor seguimiento del servicio técnico.
+
+![image](https://user-images.githubusercontent.com/105352990/174395824-c97bf184-4140-46f0-993c-af6be506511e.png)
+
+6.**Método de pago**
+
+Podemos configurar desde la misma herramienta los métodos de pagos posibles para la compañía. En el caso de la demo online al tratarse de una tienda de moda. Permite el pago mediante efectivo, por transferencia bancaria e incluso mediante PayPal.
+
+![image](https://user-images.githubusercontent.com/105352990/174395897-9efa7e8f-af5f-4747-82a8-7ed45f924460.png)
+
