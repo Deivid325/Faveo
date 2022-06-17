@@ -107,3 +107,16 @@ En esta sección podremos llevar un seguimiento de nuestro servicio técnico. En
 
 ![image](https://user-images.githubusercontent.com/105352990/174391423-e9ce95f0-a015-4b0b-9591-e56c99d60428.png)
 
+## Ámbito de administrador
+
+1.**Personal**
+
+En este apartado podemos encontrar la opción de “Agentes”. Este, permite añadir a los usuarios del servicio técnico del que forman parte. 
+
+
+
+2.**Correo electrónico**
+
+Aquí podemos configurar cosas como el correo electrónico de cada departamento. En la demo online solo se encuentra configurado el correo para el departamento de soporte.
+
+![image](https://user-images.githubusercontent.com/104897045/174393278-acae9ef0-f872-40ab-a8e1-6b9d967ac4d3.png)
