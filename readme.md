@@ -81,3 +81,8 @@ Dentro de esta pestaña podemos hacer dos cosas. La primera es la creación y al
 
 Lo segundo que podemos hacer va con respecto a las organizaciones. En dicha pestaña podemos crear organizaciones donde asignar los clientes que creamos para poder identificar el sector desde donde el cliente nos solicita a través del ticket.
 
+![image](https://user-images.githubusercontent.com/105352990/174387920-1669409f-1c78-4b23-aa88-fc9373e9a1af.png)
+
+Seleccionamos una de las organizaciones para observar el perfil de la misma. Podemos ver que dicha organización tiene a 2 clientes asignados a la misma y también podemos observar que uno de los clientes llamado Donald Duck tiene un ticket abierto en la parte inferior de la captura.
+
+
