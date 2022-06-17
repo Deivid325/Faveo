@@ -113,10 +113,19 @@ En esta sección podremos llevar un seguimiento de nuestro servicio técnico. En
 
 En este apartado podemos encontrar la opción de “Agentes”. Este, permite añadir a los usuarios del servicio técnico del que forman parte. 
 
-
+![image](https://user-images.githubusercontent.com/105352990/174393515-746708a4-35fe-4896-9d32-276457149905.png)
 
 2.**Correo electrónico**
 
 Aquí podemos configurar cosas como el correo electrónico de cada departamento. En la demo online solo se encuentra configurado el correo para el departamento de soporte.
 
 ![image](https://user-images.githubusercontent.com/104897045/174393278-acae9ef0-f872-40ab-a8e1-6b9d967ac4d3.png)
+
+3.**Tickets**
+
+Sobre los tickets destacar que desde el panel de administrador podemos personalizar a nuestro gusto. Podemos generar alertas/avisos, asignar tickets automáticamente, etc. A demás dispone de una opción llamada Fuentes donde podremos indicar accesibilidad al cliente que use el sistema de tickets.
+
+![image](https://user-images.githubusercontent.com/105352990/174394092-c8fb2df7-6530-4158-ad3c-ca1b1dae2a3d.png)
+
+4.**Sistema**
+
