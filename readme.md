@@ -21,3 +21,15 @@ premium de pago:
 
 ![image](https://user-images.githubusercontent.com/104897045/174348640-53044263-12ae-4eea-a9c9-9aafe7ef0d05.png)
 
+-   Servicedesk – Perpetual
+
+![image](https://user-images.githubusercontent.com/104897045/174349020-427f4c32-0cf6-4956-bb91-7ba707d57991.png)
+
+-   Helpdesk – Recurring
+
+![image](https://user-images.githubusercontent.com/104897045/174349127-c54cd597-2c20-4c5e-9528-4776c650e597.png)
+
+-   Servicedesk – Recurring
+
+![image](https://user-images.githubusercontent.com/104897045/174349405-f0cc35e4-fc33-4319-b3c5-11014a364624.png)
+
