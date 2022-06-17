@@ -56,3 +56,26 @@ Desde el panel de agente podemos hacer uso de la interfaz tal y como la vemos en
 También dispone de una gráfica donde podemos hacer un seguimiento de los tickets creados, solucionados y atrasados desde el margen de fechas que indiquemos.
 
 En el menú lateral izquierdo tenemos varias pestañas a comentar.
+
+1.Tickets
+
+Dentro de esta pestaña podemos hacer cosas como crear tickets, ver la bandeja de entrada, ver los tickets asignados/no asignados, los tickets retrasados, posibilidad de aprobar o no un ticket, ver los tickets cerrados o los marcados como spam.
+
+Dos parámetros que son los fundamentales de esta pestaña son:
+
+-Creación de un ticket:
+
+![image](https://user-images.githubusercontent.com/105352990/174369689-1e8de972-9bde-4a24-9f3c-87af264102fd.png)
+
+-Bandeja de entrada.
+
+Desde este apartado podemos seleccionar los tickets y realizar la mayoría de las acciones nombradas anteriormente como son (asignar,cerrar,marcar como spam,etc).
+
+![image](https://user-images.githubusercontent.com/105352990/174386191-127cf02d-fefb-4ed6-a9b3-b53b0c2b7808.png)
+
+2.**Usuarios**
+
+Dentro de esta pestaña podemos hacer dos cosas. La primera es la creación y almacenamiento de usuarios de los que podemos recibir tickets. De los usuarios podemos almacenar datos como son el correo electrónico e incluso el teléfono móvil ya que existe la herramienta de Faveo para versiones móviles.
+
+![image](https://user-images.githubusercontent.com/105352990/174386403-4b5e93dd-1d6b-4816-809f-61c92e68a3b7.png)
+
