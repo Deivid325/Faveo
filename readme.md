@@ -71,7 +71,7 @@ Dos parámetros que son los fundamentales de esta pestaña son:
 
 Desde este apartado podemos seleccionar los tickets y realizar la mayoría de las acciones nombradas anteriormente como son (asignar,cerrar,marcar como spam,etc).
 
-![image](https://user-images.githubusercontent.com/105352990/174386191-127cf02d-fefb-4ed6-a9b3-b53b0c2b7808.png)
+![image](https://user-images.githubusercontent.com/105352990/174386517-7953909c-d650-4be5-8b07-412d8e12e594.png)
 
 2.**Usuarios**
 
