@@ -153,3 +153,16 @@ Podemos configurar desde la misma herramienta los métodos de pagos posibles par
 
 ![image](https://user-images.githubusercontent.com/105352990/174395897-9efa7e8f-af5f-4747-82a8-7ed45f924460.png)
 
+## Ámbito de cliente
+
+Podemos observar que es lo que vería el cliente de la demo online. Una simple página de moda online donde podremos realizar la creación de un ticket si tenemos algún tipo de compromiso.
+
+![image](https://user-images.githubusercontent.com/104897045/174396250-4825569a-9ea4-46a7-8573-b972f59cd759.png)
+
+![image](https://user-images.githubusercontent.com/104897045/174396299-3ad06c5a-9ae2-4d78-bf0e-4d1349e54f52.png)
+
+A la hora de enviar el ticket, observamos que disponemos de un formulario a rellenar indicando el problema o duda que presenta el cliente.
+
+![image](https://user-images.githubusercontent.com/104897045/174396592-55f4a32c-b1ba-4668-8682-940f155d7125.png)
+
+Una vez enviado el ticket, los agentes del cuerpo técnico, recibirán el mismo. Una vez recibido, el administrador o ellos mismos se lo asignarán para otorgarle ayuda cuanto antes. Una vez el usuario encargado de la resolución del problema resuelva el mismo, este, concluirá la incidencia.
