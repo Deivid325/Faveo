@@ -41,3 +41,7 @@ Dicha herramienta nos proporciona 3 ámbitos (Administrador,Cliente,Agente) con 
 
 ![image](https://user-images.githubusercontent.com/105352990/174350750-0f8dd085-2f41-4015-9454-ce9ebea6f87f.png)
 
+Debemos de tener en cuenta unos requisitos para ello que son los siguientes:
+
+![image](https://user-images.githubusercontent.com/105352990/174351221-05d99c11-6d99-4010-8402-2265199a88fa.png)
+
